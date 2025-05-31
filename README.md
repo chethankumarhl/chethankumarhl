@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js , Machine Learning.**
 
-- 📫 How to reach me **22btrcn062@jainuniversity.ac.in**
+- 📫 How to reach me **chethankumar.lingaraju@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
